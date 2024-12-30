@@ -1,3 +1,4 @@
+package Vehicle;
 import Strategy.*;
 
 public class OffRoadVehicle extends Vehicle{

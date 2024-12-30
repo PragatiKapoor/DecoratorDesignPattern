@@ -1,7 +1,8 @@
+package Vehicle;
 import Strategy.*;
 
 public class GoodsVehicle extends Vehicle{
-	GoodsVehicle() {
+	public GoodsVehicle() {
 		super(new NormalDriveStrategy());
 	}
 }

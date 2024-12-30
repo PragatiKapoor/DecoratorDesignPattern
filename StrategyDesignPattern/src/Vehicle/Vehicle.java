@@ -1,3 +1,4 @@
+package Vehicle;
 import Strategy.DriveStrategy;
 
 public class Vehicle {

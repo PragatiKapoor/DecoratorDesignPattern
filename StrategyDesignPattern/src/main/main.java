@@ -1,3 +1,6 @@
+package main;
+
+import Vehicle.*;
 
 public class main {
 
